@@ -1,0 +1,179 @@
+* {
+    position: absolute; 
+    color: #001737;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.esquerda {
+    margin-top: 20px;
+}
+
+#foto {
+    border-radius: 10px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 40px;
+    top: 40px;
+}
+
+h1 {
+    width: 137px;
+    height: 28px;
+    left: 106px;
+    top: 25px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+h3 {
+    opacity: 0.75;
+    width: 191px;
+    height: 16px;
+    left: 106px;
+    top: 60px;    
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+}
+
+#descricao {
+    color: #405169;
+    width: 310px;
+    height: 56px;
+    left: 40px;
+    top: 98px;
+    font-size: 9px;
+    line-height: 14px;
+}
+
+#educacao {
+    width: 77px;
+    height: 18px;
+    left: 40px;
+    top: 170px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;    
+}
+
+.cursos {
+    left: 11.73%;
+    bottom: 80%;
+    width: 301px;
+    height: 12px;
+    left: 80px;
+    font-weight: 500;
+    font-size: 9px;
+}
+
+#senai {
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    right: 92.96%;
+    bottom: 60%;
+    left: 40px;
+    top: 220px;
+}
+
+#formacao {    
+    top: 212px;    
+}
+
+#data {   
+    top: 224px;
+    color: #7F8A9A;
+}
+
+#descricao2 {
+    top: 245px;
+    color: #405169;
+}
+
+.divisao {
+    width: 1px;
+    height: 842px;
+    left: 410px;
+    background: #E6E8EB;
+}
+
+.direita {
+    margin-top: 25px;
+    width: 100px;
+    height: 18px;
+    left: 440px;
+    top: 40px;
+}
+
+h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;  
+}
+
+.infos {
+    font-weight: 400;
+    font-size: 9px;
+    top: 45px;
+}
+
+#email {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+#tel {
+    top: 60px;
+}
+
+#idiomas {
+    top: 110px;
+}
+
+#pt{
+    font-weight: 400;
+    font-size: 9px;
+    top: 130px;
+}
+
+#nativo{
+    font-weight: 400;
+    font-size: 9px;
+    top: 130px;
+    left: 50px;
+    color: #405169;
+    opacity: 0.75;
+}
+
+
+#ingles{
+    font-weight: 400;
+    font-size: 9px;
+    top: 145px;
+}
+
+#intermediario{
+    font-weight: 400;
+    font-size: 9px;
+    top: 145px;
+    left: 32px;
+    color: #405169;
+    opacity: 0.75;
+}
+
+#link {
+    font-size: 9px;
+    font-weight: 600;
+    top: 200px;
+}
+
